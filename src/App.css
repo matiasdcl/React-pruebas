@@ -1,0 +1,23 @@
+/* Centrar el App en la pantalla */
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+  background-color: #f0f0f0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+/* Estilo para el marco principal */
+.contenedor {
+  background-color: white;
+  width: 80%;
+  max-width: 800px;
+  padding: 2rem;
+  border-radius: 20px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  border: 2px solid black; /* <-- borde negro agregado */
+}

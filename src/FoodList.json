@@ -1,0 +1,22 @@
+[
+  {
+    "nombre": "Pizza",
+    "emoji": "🍕"
+  },
+  {
+    "nombre": "Hamburguesa",
+    "emoji": "🍔"
+  },
+  {
+    "nombre": "Taco",
+    "emoji": "🌮"
+  },
+  {
+    "nombre": "Sushi",
+    "emoji": "🍣"
+  },
+  {
+    "nombre": "Helado",
+    "emoji": "🍦"
+  }
+]
